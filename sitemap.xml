@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/09/02/hello-world/</loc>
+    <loc>http://example.com/2020/09/07/hello-world/</loc>
     
-    <lastmod>2020-09-04</lastmod>
+    <lastmod>2020-09-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/07/lazy-season/</loc>
+    
+    <lastmod>2020-09-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/07/story/</loc>
+    
+    <lastmod>2020-09-07</lastmod>
     
   </url>
   
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-09-04</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -19,14 +33,14 @@
   
   <url>
     <loc>http://example.com/tags/Hexo/</loc>
-    <lastmod>2020-09-04</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Markdown/</loc>
-    <lastmod>2020-09-04</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -34,8 +48,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%95%85%E4%BA%8B/</loc>
-    <lastmod>2020-09-04</lastmod>
+    <loc>http://example.com/categories/%E6%83%85%E6%84%9F/</loc>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
