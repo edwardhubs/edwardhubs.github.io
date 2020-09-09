@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://edwardhubs.github.io/2020/09/08/rain-run/</loc>
+    <loc>https://edwardhubs.github.io/2020/09/09/brave-heart/</loc>
     
     <lastmod>2020-09-09</lastmod>
     
   </url>
   
   <url>
-    <loc>https://edwardhubs.github.io/2020/09/07/run-think/</loc>
+    <loc>https://edwardhubs.github.io/2020/09/07/story/</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://edwardhubs.github.io/2020/09/07/lazy-season/</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://edwardhubs.github.io/guestbook/index.html</loc>
     
     <lastmod>2020-09-09</lastmod>
     
@@ -30,7 +44,14 @@
   </url>
   
   <url>
-    <loc>https://edwardhubs.github.io/guestbook/index.html</loc>
+    <loc>https://edwardhubs.github.io/2020/09/08/rain-run/</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://edwardhubs.github.io/2020/09/07/run-think/</loc>
     
     <lastmod>2020-09-09</lastmod>
     
@@ -38,20 +59,6 @@
   
   <url>
     <loc>https://edwardhubs.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-09-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://edwardhubs.github.io/2020/09/07/story/</loc>
-    
-    <lastmod>2020-09-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://edwardhubs.github.io/2020/09/07/lazy-season/</loc>
     
     <lastmod>2020-09-08</lastmod>
     
@@ -75,6 +82,13 @@
   
   <url>
     <loc>https://edwardhubs.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2020-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://edwardhubs.github.io/tags/%E5%BF%83%E6%83%85/</loc>
     <lastmod>2020-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
