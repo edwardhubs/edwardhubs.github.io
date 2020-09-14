@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>王子</title>
+  <title>思维的持续</title>
   
   <subtitle>你好，世界。</subtitle>
   <link href="https://edwardhubs.github.io/atom.xml" rel="self"/>
   
   <link href="https://edwardhubs.github.io/"/>
-  <updated>2020-09-12T04:13:55.092Z</updated>
+  <updated>2020-09-14T08:03:46.747Z</updated>
   <id>https://edwardhubs.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>雨中，那一道人性闪亮的光辉</title>
+    <link href="https://edwardhubs.github.io/2020/09/14/shining-light/"/>
+    <id>https://edwardhubs.github.io/2020/09/14/shining-light/</id>
+    <published>2020-09-14T07:50:16.000Z</published>
+    <updated>2020-09-14T08:03:46.747Z</updated>
+    
+    
+    <summary type="html">人，总是在不断的成长和变化，因为经历的人和事，也随之改变自己的行为方式。接触到不同的人，不同的事，让自己从中学会看到自己的样子，照亮现实的问题。一直固守在原封不动的思维圆圈，实际的行为也会一如从前，永远走不出自己设定的范围，就像被自己画地为牢圈在了一个固定的地方。</summary>
+    
+    
+    
+    <category term="情感" scheme="https://edwardhubs.github.io/categories/%E6%83%85%E6%84%9F/"/>
+    
+    
+    <category term="随笔" scheme="https://edwardhubs.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>观《勇敢的心》有感</title>
